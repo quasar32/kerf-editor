@@ -16,6 +16,9 @@ These are not concrete positions, and anyone can help anywhere where
 help is needed.
 
 # Communication Expectations
+We will use a text group chat. 
+Before approving merge requests, someone else will review and test the new code.
+If someone will not be at class or meetings, communicate ahead of time.
 
 # Meeting Structure and Availability Expectations
 We will meet each week after class on Wednesday.
