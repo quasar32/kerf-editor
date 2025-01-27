@@ -16,13 +16,16 @@ These are not concrete positions, and anyone can help anywhere where
 help is needed.
 
 # Communication Expectations
-We will use a text group chat. 
 
 # Meeting Structure and Availability Expectations
+We will meet each week after class on Wednesday.
 
 # Change Requests
+We will send requests for changes to the project or this
+agreement via group chat and vote on said changes.
 
 # Team Agreement Maintenance
+This agreement will be maintained via change requests.
 
 # Team Member Signatures
 
