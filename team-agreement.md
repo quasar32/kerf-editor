@@ -8,10 +8,10 @@ kerf structure editor which fits the
 specifications given by TAMU HCIED.
 
 # Roles and Responsibilities
-The front-end developer will work on the user interface primarily.
-The backe-end developer will work more of the underlying math and 
+The front-end developer will primarily work on the user interface.
+The back-end developer will work more on the underlying math and 
 shader code since we don't really have a server side to this yet.
-
+CI/CD lead will resolve merge conflicts and test the code.
 These are not concrete positions, and anyone can help anywhere where 
 help is needed.
 
