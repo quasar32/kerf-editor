@@ -32,3 +32,4 @@ This agreement will be maintained via change requests.
 
 # Team Member Signatures
 
+Donato Curvino
