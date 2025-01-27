@@ -31,5 +31,5 @@ agreement via group chat and vote on said changes.
 This agreement will be maintained via change requests.
 
 # Team Member Signatures
-James Fontenot
+James Fontenot,
 Donato Curvino
