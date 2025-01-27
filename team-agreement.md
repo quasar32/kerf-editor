@@ -1,8 +1,11 @@
 # Team Agreement
 
-## Team Name \- Agreement\_Date
+## The Kerf \- January 27, 2025
 
 # Team Goals and Objectives
+The objective is to create a functional cloud 
+kerf structure editor which fits the 
+specifications given by TAMU HCIED.
 
 # Roles and Responsibilities
 
